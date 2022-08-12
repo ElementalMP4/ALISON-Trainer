@@ -1,5 +1,5 @@
 # ALISON Trainer
-A tool to create models for ALISON from text files
+A tool to create models for [ALISON](https://github.com/Elementalmp4/ALISON-V2) from text files
 
 ## How to use ALISON Trainer
 
